@@ -9,12 +9,6 @@ This project is a Python implementation of the classic Tic Tac Toe game from scr
 - Images: `.jpg`   files - Visual representations of the game's implementation and results.
 - ![1](https://github.com/user-attachments/assets/b7fa56c2-895c-4c33-bd0f-fd2e2902096c)
 ![8](https://github.com/user-attachments/assets/3946dd58-5b18-4398-86b3-9ffc8141fbc6)
-![7](https://github.com/user-attachments/assets/2ee9b305-2e0f-4169-b3ae-17cdd941ee6e)
-![6](https://github.com/user-attachments/assets/90aa2907-0524-4aec-a227-ce8511a0c988)
-![5](https://github.com/user-attachments/assets/8ea2af63-1e76-4811-bf3e-995d0da7f987)
-![4](https://github.com/user-attachments/assets/dc2ff60c-0bc6-4743-a97d-f5fe9adf7ce6)
-![3](https://github.com/user-attachments/assets/ab8bdd85-217e-4dad-9ec8-fa03360b662c)
-![2](https://github.com/user-attachments/assets/40218e58-21b6-48a6-a5b1-92ea59df5dc1)
 
 - Video: A demonstration video showcasing the gameplay and code functionality.
 
